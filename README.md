@@ -1,5 +1,5 @@
 # Yandex.Eda_Hackathon
-Our work was considered as one of the best and was nominated in the second place.
+Our work was considered as one of the best and had been nominated in the second place.
 
 Partisipants:
 
