@@ -1,4 +1,5 @@
 # Yandex.Eda_Hackathon
+Our work was considered as one of the best and was nominated in the second place.
 
 Partisipants:
 
